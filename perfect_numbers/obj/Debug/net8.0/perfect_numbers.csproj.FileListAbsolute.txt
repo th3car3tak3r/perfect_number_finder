@@ -1,0 +1,14 @@
+c:\Users\th3car3tak3r\Desktop\coding\maths\c#\perfect_numbers\perfect_numbers\bin\Debug\net8.0\perfect_numbers.exe
+c:\Users\th3car3tak3r\Desktop\coding\maths\c#\perfect_numbers\perfect_numbers\bin\Debug\net8.0\perfect_numbers.deps.json
+c:\Users\th3car3tak3r\Desktop\coding\maths\c#\perfect_numbers\perfect_numbers\bin\Debug\net8.0\perfect_numbers.runtimeconfig.json
+c:\Users\th3car3tak3r\Desktop\coding\maths\c#\perfect_numbers\perfect_numbers\bin\Debug\net8.0\perfect_numbers.dll
+c:\Users\th3car3tak3r\Desktop\coding\maths\c#\perfect_numbers\perfect_numbers\bin\Debug\net8.0\perfect_numbers.pdb
+c:\Users\th3car3tak3r\Desktop\coding\maths\c#\perfect_numbers\perfect_numbers\obj\Debug\net8.0\perfect_numbers.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\th3car3tak3r\Desktop\coding\maths\c#\perfect_numbers\perfect_numbers\obj\Debug\net8.0\perfect_numbers.AssemblyInfoInputs.cache
+c:\Users\th3car3tak3r\Desktop\coding\maths\c#\perfect_numbers\perfect_numbers\obj\Debug\net8.0\perfect_numbers.AssemblyInfo.cs
+c:\Users\th3car3tak3r\Desktop\coding\maths\c#\perfect_numbers\perfect_numbers\obj\Debug\net8.0\perfect_numbers.csproj.CoreCompileInputs.cache
+c:\Users\th3car3tak3r\Desktop\coding\maths\c#\perfect_numbers\perfect_numbers\obj\Debug\net8.0\perfect_numbers.dll
+c:\Users\th3car3tak3r\Desktop\coding\maths\c#\perfect_numbers\perfect_numbers\obj\Debug\net8.0\refint\perfect_numbers.dll
+c:\Users\th3car3tak3r\Desktop\coding\maths\c#\perfect_numbers\perfect_numbers\obj\Debug\net8.0\perfect_numbers.pdb
+c:\Users\th3car3tak3r\Desktop\coding\maths\c#\perfect_numbers\perfect_numbers\obj\Debug\net8.0\perfect_numbers.genruntimeconfig.cache
+c:\Users\th3car3tak3r\Desktop\coding\maths\c#\perfect_numbers\perfect_numbers\obj\Debug\net8.0\ref\perfect_numbers.dll
