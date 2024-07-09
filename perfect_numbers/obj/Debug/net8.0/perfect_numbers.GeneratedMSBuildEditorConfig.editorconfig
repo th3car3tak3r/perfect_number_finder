@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = perfect_numbers
-build_property.ProjectDir = C:\Users\th3car3tak3r\Desktop\coding\maths\c#\perfect_numbers\perfect_numbers\
+build_property.ProjectDir = c:\Users\atenw\Desktop\coding\c#\perfect_number_finder\perfect_numbers\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

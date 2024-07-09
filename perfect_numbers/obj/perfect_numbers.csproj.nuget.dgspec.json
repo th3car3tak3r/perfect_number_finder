@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\th3car3tak3r\\Desktop\\coding\\maths\\c#\\perfect_numbers\\perfect_numbers\\perfect_numbers.csproj": {}
+    "c:\\Users\\atenw\\Desktop\\coding\\c#\\perfect_number_finder\\perfect_numbers\\perfect_numbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\th3car3tak3r\\Desktop\\coding\\maths\\c#\\perfect_numbers\\perfect_numbers\\perfect_numbers.csproj": {
+    "c:\\Users\\atenw\\Desktop\\coding\\c#\\perfect_number_finder\\perfect_numbers\\perfect_numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\th3car3tak3r\\Desktop\\coding\\maths\\c#\\perfect_numbers\\perfect_numbers\\perfect_numbers.csproj",
+        "projectUniqueName": "c:\\Users\\atenw\\Desktop\\coding\\c#\\perfect_number_finder\\perfect_numbers\\perfect_numbers.csproj",
         "projectName": "perfect_numbers",
-        "projectPath": "C:\\Users\\th3car3tak3r\\Desktop\\coding\\maths\\c#\\perfect_numbers\\perfect_numbers\\perfect_numbers.csproj",
-        "packagesPath": "C:\\Users\\th3car3tak3r\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\th3car3tak3r\\Desktop\\coding\\maths\\c#\\perfect_numbers\\perfect_numbers\\obj\\",
+        "projectPath": "c:\\Users\\atenw\\Desktop\\coding\\c#\\perfect_number_finder\\perfect_numbers\\perfect_numbers.csproj",
+        "packagesPath": "C:\\Users\\atenw\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\atenw\\Desktop\\coding\\c#\\perfect_number_finder\\perfect_numbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\th3car3tak3r\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\atenw\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
